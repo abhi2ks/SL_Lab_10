@@ -11,7 +11,7 @@ myFunction();
 
 const studentObject = {
   name: "Monirul",
-  age: "20",
+  age: "21",
   rollNo: "18",
   address: {
     city: "Bongaigaon",
@@ -20,5 +20,4 @@ const studentObject = {
 };
 console.log("This is student object: ");
 console.log(studentObject);
-
 console.log(studentObject.address.city);

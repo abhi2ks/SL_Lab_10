@@ -13,6 +13,7 @@
   "author": "Md. Monirul Islam",
   "license": "ISC",
   "dependencies": {
+    "json2xls": "^0.1.2",
     "simple-excel-to-json": "^2.3.0"
   }
 }
