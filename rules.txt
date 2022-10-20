@@ -1,2 +1,4 @@
 Sort the sheet based on cgpa
-Each student 
+Each subject will pnly have 50 seat
+Assign electives to each student
+Create an Excel sheet of those electives
